@@ -1,0 +1,9 @@
+numpy
+<<<<<<< HEAD
+gymnasium
+gurobi package in python the key from Gurobi website installed on the computer
+=======
+gurobipy
+pygame
+matplotlib
+>>>>>>> 1e61af9a4e68d599520ed7fcfe3e4f1dbde14530
